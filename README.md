@@ -11,6 +11,6 @@ Since it's a simple script file I just made it short so it runs indefinitely if 
 
 Copyright
 ---------
-The source code is absolutely free to copy, change and use.
+The source code is absolutely free to copy, change and use. No worries, only enjoy! :)
 
 
